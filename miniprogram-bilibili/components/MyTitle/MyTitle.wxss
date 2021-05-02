@@ -1,0 +1,28 @@
+.my_title{
+	display: flex;
+	align-items: center;
+	padding: 10rpx;
+	background-color: white;
+}
+.logo{
+	display: flex;
+	flex: 3;
+}
+.search_icon{
+	flex: 1;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.user_icon{
+	flex: 2;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.down_app{
+	flex: 3;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}

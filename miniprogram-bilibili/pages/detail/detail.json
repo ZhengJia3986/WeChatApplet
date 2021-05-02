@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "Video Detail",
+  "usingComponents":{
+    "MyTitle":"../../components/MyTitle/MyTitle"
+  }
+}

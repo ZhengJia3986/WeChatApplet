@@ -1,0 +1,18 @@
+<view class="my_title">
+	<!-- logo -->
+	<navigator class="logo">
+		<image src="../../images/logo.PNG" mode="heightFix" style="height:100rpx;"></image>
+	</navigator>
+    <!-- 搜索 -->
+    <view class="search_icon">
+        <image src="../../images/search.PNG" mode="heightFix" style="height:80rpx;"></image>
+    </view>
+    <!-- 用户 -->
+    <view class="user_icon">
+        <image src="../../images/touxiang.PNG" mode="heightFix" style="height:60rpx;padding:1rpx;"></image>
+    </view>
+    <!-- 下载按钮 -->
+    <view class="down_app">
+        <image src="../../images/download.PNG" mode="heightFix" style="height:80rpx;"></image>
+    </view>
+</view>
